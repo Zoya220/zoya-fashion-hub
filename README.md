@@ -14,7 +14,7 @@ This project is fully responsive and adapts to all device sizes, from mobile pho
 
 | Desktop | Tablet | Mobile |
 | :---: | :---: | :---: |
-| <img src="img/screenshot-01.jpg" alt="Desktop View" width="300"> | <img src="img/screenshot-02.png" alt="Tablet View" width="300"> | <img src="img/screenshot-03.jpg" alt="Mobile View" width="300"> |
+| <img src="screenshot-01.png" alt="Desktop View" width="300"> | <img src="screenshot-02.png" alt="Tablet View" width="300"> | <img src="screenshot-03.jpg" alt="Mobile View" width="300"> |
 
 ---
 
